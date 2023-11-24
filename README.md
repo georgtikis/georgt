@@ -1,3 +1,4 @@
 # Example of README.md
-## An example
-## Creating by  **Tikis Georgios**
+An example of a repository
+
+Created by [**Tikis Georgios**]                                                                                                  
